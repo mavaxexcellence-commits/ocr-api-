@@ -1,0 +1,14 @@
+easyocr
+opencv-python-headless
+moviepy
+pydub
+openai-whisper
+torch
+torchaudio
+Pillow
+numpy
+reportlab
+ffmpeg-python
+python-multipart
+fastapi
+uvicorn
